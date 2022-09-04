@@ -1,5 +1,5 @@
-## Hello there!, I'm Andrés, Front End Developer 👨🏽‍💻
+## Howdy!, I'm Andrés, Front End Engineer 👨🏽‍💻
 
 ```javascript
-const Skills= ["HTML5", "Sass", "Bootstrap", "React", "JavaScript(ES6+)", "TypeScript", "Node", "Git"];
+const Stack = ["HTML5", "Sass", "Bootstrap", "React", "JavaScript(ES6+)", "Node", "Git", "Next.js"];
 ```
