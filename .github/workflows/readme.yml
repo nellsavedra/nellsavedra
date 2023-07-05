@@ -17,4 +17,5 @@ jobs:
           git config user.email nellsavedra@gmail.com
           date >> .log
           git add .
+          git commit - "Update README.md"
           git push origin main
